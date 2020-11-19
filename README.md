@@ -1,0 +1,13 @@
+# sdm660_64-user 9 PKQ1 57 release-keys
+- manufacturer: asus
+- platform: sdm660
+- codename: ASUS_X01BD
+- flavor: sdm660_64-user
+- release: 9
+- id: PKQ1
+- incremental: 16.2017.2009.097-20200826
+- tags: release-keys
+- fingerprint: Android/sdm660_64/sdm660_64:9/PKQ1/16.2017.2009.097-20200826:user/release-keys
+- brand: asus
+- branch: sdm660_64-user-9-PKQ1-57-release-keys
+- repo: asus_asus_x01bd_dump
